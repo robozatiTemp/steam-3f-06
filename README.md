@@ -1,7 +1,5 @@
 # How AI can be used to improve traffic in big cities
 
-### DO NOT, BY ANY MEANS, CLONE OR DOWNLOAD THIS REPO
-
 ### Problem
 According to the UN World Urbanization Prospects, 55% of the world population inhabited urban areas in 2018. That figure is expected to reach 68% by 2050. While the rapid growth of urban communities undoubtedly has led to more convenience for some people, it is undeniable that it has also negatively impacted the life of millions around the globe. A symbol of the chaotic metropolitan lifestyle, traffic jams are a massive complication that threatens the whole unity of the urban network.
 
@@ -14,8 +12,14 @@ Virtually everyone in the urban environment is affected either directly or indir
 ### Alignment with the SDGs And Your Project Goals
 Tackling SDG number 11 (Sustainable Cities and Communities), our initiative would highly benefit the urban environment as a whole. More than simply reducing commuting time, better transportation is crucial to make cities more inclusive and can even help reducing noise and air pollution.
 
+### Video
+[![Video Thumbnail](https://img.youtube.com/vi/6CjnweR4D6o/0.jpg)](https://www.youtube.com/watch?v=6CjnweR4D6o)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/robozatiTemp/steam-3f-06/blob/master/LICENSE.md) file for details.
+
+## Installing
+**This repository should not be cloned or downloaded, and it is shown only for exhibition purposes**.
 
 ## Acknowledgemnts
 - [Stable Baselines](https://github.com/hill-a/stable-baselines)
