@@ -12,7 +12,7 @@ Virtually everyone in the urban environment is affected either directly or indir
 ### Alignment with the SDGs And Your Project Goals
 Tackling SDG number 11 (Sustainable Cities and Communities), our initiative would highly benefit the urban environment as a whole. More than simply reducing commuting time, better transportation is crucial to make cities more inclusive and can even help reducing noise and air pollution.
 
-### Video
+## Video
 [![Video Thumbnail](https://img.youtube.com/vi/6CjnweR4D6o/0.jpg)](https://www.youtube.com/watch?v=6CjnweR4D6o)
 
 ## License
