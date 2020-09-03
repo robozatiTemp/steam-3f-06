@@ -16,10 +16,21 @@ Tackling SDG number 11 (Sustainable Cities and Communities), our initiative woul
 [![Video Thumbnail](https://img.youtube.com/vi/6CjnweR4D6o/0.jpg)](https://www.youtube.com/watch?v=6CjnweR4D6o)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/robozatiTemp/steam-3f-06/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Prerequisites
+- [Gym](https://pypi.org/project/gym/0.7.4/). Used for activating the environment.
+- [Pygame](https://www.pygame.org/wiki/GettingStarted). Used in the rendering process.
+- *[Numpy](https://pypi.org/project/numpy/). Used in gym's calculations and is already included with it.*
 
 ## Installing
 **This repository should not be cloned or downloaded, and it is shown only for exhibition purposes**.
+
+However, if there is a need to use this environment, you can follow these steps:
+
+1. First, download or clone this repo and install it with pip by running `pip install gym_mlsteam` in the specified directory. Or, if you want to make some changes to the code and see some different variables in action, run `pip install -e gym_mlsteam` instead.
+
+2. Then, you can create an instance of the environment with `gym.make('gym_mlsteam:mlsteam-v1')` 
 
 ## Acknowledgemnts
 - [Stable Baselines](https://github.com/hill-a/stable-baselines)
